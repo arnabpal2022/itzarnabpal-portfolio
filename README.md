@@ -15,4 +15,4 @@ This project is a responsive portfolio website created using
  - Line Awesome library.
  
 ## License
-Built by [@arnabpal2022](https://github.com/arnabpal2022) for his own portfolio. **Copyright (c) 2023 by Arnab Pal**.
+Built by [@arnabpal2022](https://github.com/arnabpal2022) for his own portfolio. **Copyright (c) 2024 by Arnab Pal**.
